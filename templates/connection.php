@@ -1,0 +1,1 @@
+<?php $conn = mysqli_connect('localhost','root','','u607487318_maxmo') or die('Unable to Connect to Database'); ?>

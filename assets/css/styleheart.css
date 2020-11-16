@@ -1,0 +1,14 @@
+
+/* heart div class - in html i used just a simple html simbol entity for heart sign, you can use text or whatever u want*/
+
+.heart {
+	color: #e00;
+	animation: beat .45s infinite alternate;
+	
+}
+
+/* Heart beat animation */
+@keyframes beat{
+	to { transform: scale(1.4); }
+}
+)
